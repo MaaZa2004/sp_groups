@@ -11,6 +11,14 @@ Premium architectural planning, luxury residential construction, and bespoke int
 - **Service Offerings**: Turnkey residential construction, bespoke interior design, architectural blueprints & MEP engineering, and structural renovation.
 - **Interactive Experience**: Interactive portfolio gallery, smooth GSAP-driven scroll animations, tactile material palettes, and direct WhatsApp inquiry integration.
 
+## 📁 Assets Directory (`assets/`)
+The `assets/` directory contains the studio's brand identity files:
+- `logo-original.jpeg`: Master high-resolution brand artwork.
+- `logo-light.png`: Sandstone-toned (`#EDE7DF`) logo with transparent background for dark themes.
+- `logo-dark.png`: Dark-toned logo with transparent background for light surfaces.
+- `logo-square-512.png`: 512x512 square icon used for favicon and app icons.
+- `og-image.png`: High-resolution Open Graph banner for social preview links.
+
 ## 🚀 Getting Started
 
 Simply open `index.html` in any modern web browser or serve it using any local static file server (such as Vite, Live Server, or `npx serve .`).
