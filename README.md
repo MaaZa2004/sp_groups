@@ -18,6 +18,7 @@ The `assets/` directory contains the studio's brand identity files:
 - `logo-dark.png`: Dark-toned logo with transparent background for light surfaces.
 - `logo-square-512.png`: 512x512 square icon used for favicon and app icons.
 - `og-image.png`: High-resolution Open Graph banner for social preview links.
+- `founder.jpeg`: Official portrait photograph of Prem Sagar A (Founder).
 
 ## 🚀 Getting Started
 
